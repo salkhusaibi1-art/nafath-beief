@@ -28,3 +28,8 @@ Resource: <https://genai.owasp.org/llmrisk2023-24/llm01-24-prompt-injection/>
 Anonymization removes identifying information so that individuals can no longer reasonably be identified from the data. Pseudonymization replaces direct identifiers with codes or pseudonyms, but additional information may still reveal a person's identity. Under data protection frameworks such as the GDPR, properly anonymized data falls outside the scope of data protection law because it is no longer personal data. Pseudonymized data generally remains personal data and is still protected.
 Resource: <https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-sharing/anonymisation/pseudonymisation/>
 
+## Misconception in My Track
+Many think networking is only about Wi-Fi speed. In reality, for public services, networking is about trust, encryption, authentication, and ensuring every packet carrying citizen data is verified and secure.
+
+## Open Question
+How can we design a zero-trust network architecture for Oman's government mobile app that ensures AI assistant answers are delivered with low latency but with full encryption and citizen privacy under PDPL?
