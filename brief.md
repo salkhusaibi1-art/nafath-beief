@@ -1,4 +1,4 @@
- NAFATH-V3
+version: NAFATH-V3
 track: Network
 
 ##Overview
@@ -27,3 +27,4 @@ Resource: <https://genai.owasp.org/llmrisk2023-24/llm01-24-prompt-injection/>
 ## Data
 Anonymization removes identifying information so that individuals can no longer reasonably be identified from the data. Pseudonymization replaces direct identifiers with codes or pseudonyms, but additional information may still reveal a person's identity. Under data protection frameworks such as the GDPR, properly anonymized data falls outside the scope of data protection law because it is no longer personal data. Pseudonymized data generally remains personal data and is still protected.
 Resource: <https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-sharing/anonymisation/pseudonymisation/>
+
