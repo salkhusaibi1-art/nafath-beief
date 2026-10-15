@@ -11,3 +11,11 @@ Resource:<https://semver.org/spec/v2.0.0.html>
 ## AI — Retrieval-Augmented Generation (RAG)
 Retrieval-Augmented Generation (RAG) is a technique that retrieves relevant information from external sources before an AI model generates an answer. This helps ground the answer in existing information instead of relying only on the model's training. RAG can reduce hallucinations by providing valid information, such as real workflow steps or database table names, but it cannot guarantee that every answer will be correct.
 Resource: <https://aclanthology.org/2024.naacl-industry.19/>
+
+## Mobile — App Transport Security (ATS)
+App Transport Security (ATS) is an Apple security feature that requires iOS apps to use secure network connections that meet Apple's requirements. It encourages HTTPS, which encrypts data sent between an app and a server. When an app tries to connect to a plain HTTP endpoint, ATS normally blocks the connection unless the developer configures an exception. This helps protect data from interception during transmission.
+Resource: <https://developer.apple.com/documentation/security/preventing_insecure_network_connections>
+
+## Networking — IPv4 and IPv6
+IPv4 uses 32-bit addresses, while IPv6 uses 128-bit addresses. IPv6 therefore provides a much larger number of possible addresses than IPv4. This difference matters because more phones, computers, and other connected devices need unique network addresses as the internet grows. IPv6 helps address the limited supply of IPv4 addresses and supports the increasing number of connected devices.
+Resource: <https://www.rfc-editor.org/rfc/rfc8200>
