@@ -19,3 +19,11 @@ Resource: <https://developer.apple.com/documentation/security/preventing_insecur
 ## Networking — IPv4 and IPv6
 IPv4 uses 32-bit addresses, while IPv6 uses 128-bit addresses. IPv6 therefore provides a much larger number of possible addresses than IPv4. This difference matters because more phones, computers, and other connected devices need unique network addresses as the internet grows. IPv6 helps address the limited supply of IPv4 addresses and supports the increasing number of connected devices.
 Resource: <https://www.rfc-editor.org/rfc/rfc8200>
+
+## Cybersecurity — Prompt Injection
+Prompt injection is an attack that attempts to manipulate an AI model by providing malicious instructions. Direct prompt injection comes from a user's input and tries to override the model's instructions. Indirect prompt injection hides malicious instructions in external content, such as webpages or documents. Two ways to reduce the risk are filtering suspicious inputs and outputs and limiting the model's tool permissions to prevent unauthorized actions.
+Resource: <https://genai.owasp.org/llmrisk2023-24/llm01-24-prompt-injection/>
+
+## Data
+Anonymization removes identifying information so that individuals can no longer reasonably be identified from the data. Pseudonymization replaces direct identifiers with codes or pseudonyms, but additional information may still reveal a person's identity. Under data protection frameworks such as the GDPR, properly anonymized data falls outside the scope of data protection law because it is no longer personal data. Pseudonymized data generally remains personal data and is still protected.
+Resource: <https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-sharing/anonymisation/pseudonymisation/>
