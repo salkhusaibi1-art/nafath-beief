@@ -1,1 +1,5 @@
+veraion: NAFATH-V3
+track: Network
 
+##Overview
+The Network Track focuses on understanding the networking concepts and technologies required for communication between devices and systems. In the NAFATH-V3 project, networking plays an important role in enabling the mobile application to connect to servers, exchange data, and provide users with digital services. This track explores how data is transmitted over networks using protocols such as TCP/IP and HTTPS, which help ensure reliable and secure communication. It also highlights the importance of network security, encryption, and authentication in protecting sensitive information from unauthorized access. In addition, the track examines how network performance, connectivity, and server availability affect the application's functionality and user experience. Overall, the Network Track provides an understanding of how secure and efficient network communication supports the operation of modern mobile applications and helps maintain the confidentiality, integrity, and availability of user data.
